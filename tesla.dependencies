@@ -1,8 +1,8 @@
 [
   {
-    "repository": "CyanogenMod/android_device_lge_g4-common",
+    "repository": "Tesla-M-Devices/device_lge_g4-common",
     "target_path": "device/lge/g4-common",
-    "branch":   "cm-13.0"
+    "branch":   "6.0"
   },
   {
     "repository": "CyanogenMod/android_kernel_lge_msm8992",
