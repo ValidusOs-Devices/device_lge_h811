@@ -2,6 +2,7 @@ $(call inherit-product, device/lge/h811/full_h811.mk)
 
 # Inherit some common CM stuff.
 $(call inherit-product, vendor/tesla/config/common_full_phone.mk)
+$(call inherit-product, vendor/tesla/config/caf_fw.mk)
 
 # Enhanced NFC
 $(call inherit-product, vendor/tesla/config/nfc_enhanced.mk)
