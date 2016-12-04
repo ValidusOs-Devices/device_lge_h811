@@ -2,7 +2,7 @@
   {
     "repository": "Tesla-M-Devices/device_lge_g4-common",
     "target_path": "device/lge/g4-common",
-    "branch":   "n7.0"
+    "branch":   "n7.1"
   },
   {
     "repository": "CyanogenMod/android_kernel_lge_msm8992",
